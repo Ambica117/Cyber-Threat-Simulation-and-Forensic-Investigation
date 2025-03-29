@@ -1,6 +1,8 @@
 # Cyber Threat Simulation and Forensic Investigation
-1. Simulate cyber threats (e.g., brute force attacks, network sniffing, vulnerability 
-scanning). 
-2. Conduct penetration testing on IoT devices to identify weaknesses. 
-3. Perform digital forensics to analyze attack patterns and compromised traffic. 
-4. Generate security reports with mitigation strategies.
+• Vulnerability Scanning: Identified open ports (e.g., 22, 80) and running services (e.g., 
+SSH, HTTP). 
+• Traffic Capture: Detected unusual traffic patterns, indicating possible data exfiltration 
+attempts. 
+• Packet Analysis: Revealed unencrypted credentials being transmitted over HTTP. 
+• Brute Force Attack: Successfully cracked weak SSH passwords, demonstrating the 
+need for stronger password policies.
